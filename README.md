@@ -1,0 +1,2 @@
+# fabrica-de-chocolate
+Projeto de software para monitoramento de caldeira de chocolate de uma fábrica de chocolates. Linha de produção em que duas equipes trabalham para produção de bombons. A primeira equipe é responsável por produzir chocolate, enchendo uma caldeira. A segunda equipe é resposável por consumuir os chocolates dessa caldeira e ir confeccionando os bombons da fábrica. Cada equipe é representada por uma thread.
